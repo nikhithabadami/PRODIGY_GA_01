@@ -1,0 +1,10 @@
+Artificial Intelligence is transforming industries around the world.
+Machine learning enables computers to learn from data.
+Deep learning uses neural networks with many layers.
+Natural Language Processing helps computers understand human language.
+Generative AI can create text, images, music, and code.
+Large Language Models are trained on massive datasets.
+Python is widely used for AI development.
+Data quality is important for machine learning performance.
+Neural networks can identify patterns in complex data.
+AI is used in healthcare, finance, education, and robotics.

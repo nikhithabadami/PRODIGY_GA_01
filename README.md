@@ -3,6 +3,7 @@
 ## 📌 Internship
 **Company:** Prodigy InfoTech  
 **Intern:** Mangali Nikhitha 
+
 *Task:* Task-01 - GPT-2 Text Generation
 
 ---
